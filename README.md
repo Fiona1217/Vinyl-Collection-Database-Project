@@ -1,6 +1,7 @@
 # 🎵 Vinyl Collection Database System
 
 A comprehensive Oracle Database solution for managing vinyl record collections, built as part of my CST2355 Database Systems course.
+***Developed by**: Fiona Ang, Smriti Kohli, Olivier Niyonshima*
 
 ## ✨ Features
 - **Artist Management**: Track bands and solo artists with validation
@@ -12,7 +13,6 @@ A comprehensive Oracle Database solution for managing vinyl record collections, 
 ## 🛠️ Technical Highlights
 - Oracle Database 19c implementation
 - Temporal data modeling with start/end timestamps
-- Comprehensive package-based API
 - INSTEAD OF triggers for updatable views
 - Data validation with regular expressions
 - Sequence-based ID generation
